@@ -1,9 +1,38 @@
 header {
    background-color: bisque;
+   text-align: center;
+}
+
+.mainbody {
+    border: 10px;
+    border-style: solid;
+    border-width: 10%px;
 }
 
 .info {
     background-color: gold;
     color: fuchsia; 
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    width: 50%; 
 }
 
+img {
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.transport {
+    background-color: rebeccapurple;
+    color: palegreen;
+    text-align: center;
+    width: 50%;
+    margin-right: auto;
+    margin-left:auto;
+    display:block;
+}
