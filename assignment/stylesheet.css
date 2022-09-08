@@ -2,6 +2,7 @@ header {
    background-color: bisque;
 }
 
-Info {
-    background-color: olive;
+.info {
+    background-color: gold;
+    color: fuchsia; 
 }
